@@ -1065,10 +1065,10 @@
             "sourcePath": "C:\\Users\\jmclean\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 544,
-            "modifiedTime": 1505149657712,
-            "changeTime": 1505149657712,
-            "contentHash": "ab4b9f168d25c48924690b7062160f5e92a68eae"
+            "size": 287,
+            "modifiedTime": 1505149602280,
+            "changeTime": 1505149602280,
+            "contentHash": "fa19386e40ed360d65637fd2690b6e2eeb463e6f"
         }
     ],
     [
@@ -1308,14 +1308,14 @@
     [
         "C:\\Users\\jmclean\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jmclean\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
+            "size": 388,
+            "modifiedTime": 1505148555185,
+            "changeTime": 1505148555185,
+            "contentHash": "00615ffdd46d83622d8c65b2be93d7fec62b36a4",
             "isMetadataFile": false,
-            "size": 853,
-            "modifiedTime": 1505149819962,
-            "changeTime": 1505149819962,
-            "contentHash": "37754e4a4371108692c47cd289d62ec87843e4f2"
+            "state": "u"
         }
     ],
     [
